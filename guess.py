@@ -32,7 +32,7 @@ print(
 
     "Welcome to the Number Guessing Game!\n"
     "I'm thinking of a number between 1 and 100.\n"
-    f"Pssst, the correct answer is {random_number}"
+    # CODE TEST f"Pssst, the correct answer is {random_number}"
 )
 
 difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ")
